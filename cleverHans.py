@@ -1,4 +1,4 @@
-pip install numpy matplotlib pillow tensorflow cleverhans
+#pip install numpy matplotlib pillow tensorflow cleverhans
 
 import numpy as np
 import tensorflow as tf
